@@ -1,0 +1,70 @@
+<html>
+<head>
+    <title> complex table</title>
+    <body>
+        <table border="2"style="border-collapse:collapse;">
+            <tr>
+                <th rowspan="3">class</th>
+                <th colspan="4">roll </th>
+                
+               
+            </tr>
+            <tr>
+                <td colspan="2">1period</td>
+                <td colspan="2" rowspan="2">2period</td>
+              
+                
+                
+            </tr>
+            <tr>
+                <td colspan="2">5period</td>
+               
+              
+               
+                
+            </tr>
+            <tr>
+                <td rowspan="2">9period</td>
+                <td rowspan="2">10period</td>
+                <td rowspan="2">11period</td>
+                <td colspan="2">12period</td>
+                
+            </tr>
+            <tr>
+                <td colspan="2">13period</td>
+                
+                
+            </tr>
+            <tr>
+                <td rowspan="3">17period</td>
+                <td colspan="2">18period</td>
+                
+              <td colspan="2">19period</td>
+             
+                
+            </tr>
+            <tr>
+                <td colspan="2">21period</td>
+                <td colspan="2">22period</td>
+               
+                
+            </tr>
+            <tr>
+                <td colspan="2">25period</td>
+                <td colspan="2" >26period</td>
+               
+               
+                
+            </tr>
+            <tr>
+                <td>29period</td>
+                <td>30period</td>
+                <td>31period</td>
+                <td colspan="2">32period of      </td>
+                
+            </tr>
+        </table>    
+    </body>
+</head>
+
+</html>
